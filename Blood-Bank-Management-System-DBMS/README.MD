@@ -1,9 +1,5 @@
 # BLOOD BANK MANAGEMENT SYSTEM
 
-## Getting Started
-Project made as part of VTU 5th sem ISE DBMS mini project. The goal was just to demonstrate the database structure for the blood bank. The project does not meant to use in a real web server. It does not provide much security systems as well. 
-
-
 ### Project File Structure
 
 `database` -  This folder contains a database file which can be used to setup the database.
@@ -29,11 +25,11 @@ if you are running the project locally, the project folder should be placed in t
 
 - php
 - css
-- sql
+- mysql
 
 ### Development Environment
 
-- Windows 10
+- Windows 11
 
 ### External Resources/Plugins
 
@@ -57,11 +53,5 @@ if you are running the project locally, the project folder should be placed in t
     password:   qwertyuiop
   
 
-## Contribution Guidelines
 
-If you want to contribute to this project, please refer to the [Contributing Guidelines](CONTRIBUTING.MD).
-
-## License
-
-This project has been assigned the [MIT License](LICENSE), so go ahead and feel free to use any and/or all parts of this system and to build on it. Although I would still insist that if you do end up improving this, do accidentally contribute, it would be an honour.
 
